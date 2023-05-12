@@ -1,9 +1,9 @@
 ### __Revil__
 I'm back-end engineer but I like overall development
-- I'm working at Trineedle
-- I'm currently studying🔥(Golang, Rust, NoSQL, MSA, MQ, SDLC, Culture)
+- I'm working at Moneypin
+- I'm currently learning Golang, Svelte, Mongo
 
-### __[Jerk Chicken](https://github.com/Jerk-Chickens)__
-I made a team to study with my good friends😊
 #### Projects
-- [Dobby](https://github.com/orgs/Jerk-Chickens/repositories?q=dobby&type=all&sort=) 🔥
+- 🔥 __[revil.dev](https://revil.dev)__
+- 🌚 Dobby
+- 🌚 MI
