@@ -4,6 +4,6 @@ I'm back-end engineer but I like overall development
 - I'm currently learning Golang, Svelte, Mongo
 
 #### Projects
-- 🔥 __[revil.dev](https://revil.dev)__
+- 🌚 revil.dev
 - 🌚 Dobby
-- 🌚 MI
+- 🔥 [MI](https://mi.revil.dev)
