@@ -3,7 +3,7 @@
 시스템적인 접근
 마인드셋
 
-### 🎯 프로젝트
+### 🎯 [프로젝트](https://revil-dev.notion.site)
 모기🔥 - 그 것을 위한 써드파티 서비스
 
 ### 📖 공부 중 & 체험 중
@@ -18,4 +18,3 @@ Kubernetes, Redis Stack, MongoDB
 Protocol Buffer, QUIC
 <br>
 Documentation, Notion
-
