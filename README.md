@@ -1,4 +1,4 @@
-### 🔥 Burner Framework
+### 🔥 Bunner Framework
 
 > **"Slow burn, but the hottest fire."**
 
