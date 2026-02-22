@@ -1,4 +1,4 @@
-### 🔥 Bunner Framework
+### 🔥 Zipbul Framework
 
 > **"Slow burn, but the hottest fire."**
 
